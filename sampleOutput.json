@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Nectar Gan",
+        "title": "Xi Jinping secures unprecedented third term as China's president in ceremonial vote - CNN",
+        "description": "Xi Jinping's unprecedented third term as China's president was officially endorsed by the country's political elite on Friday, solidifying his control and making him the longest-serving head of state of Communist China since its founding in 1949.",
+        "url": "https://www.cnn.com/2023/03/09/china/china-xi-jinping-president-third-term-intl-hnk/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230309201138-xi-jingping-file-102322.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-03-10T04:09:00Z",
+        "content": "Xi Jinpings unprecedented third term as Chinas president was officially endorsed by the countrys political elite on Friday, solidifying his control and making him the longest-serving head of state of… [+4086 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Eonline.com"
+        },
+        "author": "Corinne Heller",
+        "title": "Vanderpump Rules' Raquel Leviss Sends Legal Letters to Cast Over \"Intimate\" Tom Sandoval FaceTime - E! NEWS",
+        "description": "Amid the Tom Sandoval cheating scandal, Raquel Leviss had her lawyer send legal letters to him, Ariana Madix and other Vanderpump Rules co-stars over an \"intimate\" video.",
+        "url": "https://www.eonline.com/news/1367404/vanderpump-rules-raquel-leviss-sends-legal-letters-to-cast-over-intimate-tom-sandoval-facetime",
+        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202329/rs_1200x1200-230309143037-1200-Raquel-Leviss-Tom-Sandoval-Ariana-Madix-3.9.23.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "publishedAt": "2023-03-10T02:56:00Z",
+        "content": "TheTom Sandoval cheating scandal just got messier: Raquel Leviss is SUR-ving legal letters.\r\nHer lawyer alleges that her Vanderpump Rules co-star recorded an \"intimate\" FaceTime session with her with… [+1035 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": null,
+        "title": "Shooting at Jehovah's Witness hall in Hamburg, Germany; several killed and wounded, police say - CBS News",
+        "description": "A police spokesperson said one of the people who died may have been the shooter.",
+        "url": "https://www.cbsnews.com/news/hamburg-germany-shooting-jehovahs-witness-hall-gross-borstel/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/09/3c853a14-dfa6-453a-8ef7-98f9504b6c44/thumbnail/1200x630/615fcdd17bd4c615f9d71bb881251069/gettyimages-1247957333.jpg",
+        "publishedAt": "2023-03-10T02:48:00Z",
+        "content": "Shots were fired inside a building used by Jehovah's Witnesses in the northern German city of Hamburg on Thursday evening, and an unspecified number of people were killed or wounded, police said. The… [+2522 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Jesse Coghlan",
+        "title": "US bank woes? Silicon Valley Bank stocks plunge 1 day after Silvergate downfall - Cointelegraph",
+        "description": "The stock price of Silicon Valley Bank has hit major turbulence, falling 60% in one-day trading just a day after the shuttering of crypto-bank Silvergate Bank.",
+        "url": "https://cointelegraph.com/news/us-bank-woes-silicon-valley-bank-stocks-plunge-1-day-after-silvergate-downfall",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-03/ffc95b0d-0edc-4137-b98a-f02c4ff35078.jpg",
+        "publishedAt": "2023-03-10T02:41:55Z",
+        "content": "Fears have been heightened over the future of another United States bank this week after Silicon Valley Bank (SVB) announced a significant sale of assets and stocks aimed at raising additional capita… [+3665 chars]"
+      }
+    ]
+  }
